@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keighvoh001
+- 👋 Hi, I’m @Kevin paul Onyancha
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data science
 - 📫 How to reach me @ konyanchapaul@gmail.com
