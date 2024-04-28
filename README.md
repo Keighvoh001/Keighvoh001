@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin paul Onyancha
 - 👀 I’m interested in data
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently a software developer
 - 📫 How to reach me @ konyanchapaul@gmail.com
 
 <!---
